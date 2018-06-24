@@ -13,9 +13,9 @@
     ·
     <a href="http://getsilk.ga/req">Request feature</a>
     ·
-    <a href="https://themes.getsilk.ga/">Themes</a>
+    <a href="http://themes.getsilk.ga/">Themes</a>
     ·
-    <a href="https://blog.getsilk.ga.com/">Blog</a>
+    <a href="http://blog.getsilk.ga.com/">Blog</a>
   </p>
 </p>
 
