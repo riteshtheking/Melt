@@ -1,8 +1,6 @@
 <p align="center">
-  <a href="http://getsilk.ga/">
     <img src="https://image.flaticon.com/icons/svg/511/511139.svg" alt="" width=72 height=72>
-  </a>
-
+ 
   <h3 align="center">Melt Css</h3>
 
   <p align="center">
