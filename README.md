@@ -42,8 +42,8 @@ Within the download you'll find the following directories and files, logically g
 bootstrap/
 └── dist/
     ├── css/
-    │   ├── silk.css
-    │   ├── bootstrap.min.css
+    │   ├── melt.css
+    │   ├── melt.min.css
     └── js/
         ├── silk.js
         ├── silk.min.js
