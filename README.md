@@ -68,13 +68,8 @@ Get updates on Melt's development and chat with the project maintainers and comm
 **Ritesh Kushwaha**
 
 - <https://twitter.com/ritesh_the_king>
-- <https://instagram.com/ritesh_the_king>
-
-**Jeorome Gilmore**
-
-- <https://www.facebook.com/jerome.gilmore.560>
-- <https://www.instagram.com/jeorome_gilmore/>
-
+- <https://instagram.com/in.crce>
+- <https://facebook.com/riteshtheking.india>
 
 ## Copyright and license
 
