@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://image.flaticon.com/icons/svg/511/511139.svg" alt="" width=72 height=72>
+    <img src="http://meltdesign.rf.gd/favicon.png" alt="" width=72 height=72>
  
   <h3 align="center">Melt Css</h3>
 
